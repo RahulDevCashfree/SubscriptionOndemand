@@ -78,7 +78,7 @@ const createSubscription = async (environment) => {
     customer_details: {
       customer_name: 'Rahul Raman',
       customer_email: 'r.rahul@cashfree.com',
-      customer_phone: '8971520311',
+      customer_phone: '9988776655',
     },
     plan_details: {
       plan_id: planId, // Use the fetched plan ID here
