@@ -117,3 +117,8 @@ const createSubscription = async (environment) => {
 // Set the environment and call the function
 const environment = 'Test'; // Pass 'Test' or 'Prod'
 createSubscription(environment);
+
+
+//Once the Subscription session ID is created use below link to redirect the user to auth page. 
+// https://codepen.io/Harshith-Kanigalpula-the-styleful/pen/MWMJWeN
+// Merchant need to implement the same JS SDK on their react JS code as well so that our SDK handles the Session ID.
